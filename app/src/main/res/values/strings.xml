@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout Type</string>
+    <string name="custom_text">My Text</string>
+    <string name="button">Button</string>
+    <string name="this_is_table_view">This is Table View!</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="power">Power</string>
+</resources>
